@@ -77,5 +77,22 @@ Devices Used:
 Tools Used:
 - Cisco Packet Tracer
 
+## LAN DHCP Switch Lab
+
+Objective:
+Practice DHCP connectivity in a simple LAN environment using a switch.
+Skills Practiced:
+- DHCP configuration
+- LAN connectivity
+- Switch connections
+- Automatic IP addressing
+- Ping testing
+- Basic troubleshooting
+Devices Used:
+- 2960 Switch
+-2 PCs
+Tools Used:
+- Cisco Packet Tracer
+
 
 
