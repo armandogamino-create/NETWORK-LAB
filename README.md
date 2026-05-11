@@ -56,8 +56,26 @@ Concepts Used:
 Tools Used:
 - Cisco Packet Tracer
 
-
-
+## WAN Security Network Lab
+Objective:
+Connect and configure multiple network devices including routers, switch, hub, wireless router and cloud connectivity.
+Skills Practiced:
+- WAN connectivity
+- Serial connections
+- Basic network security
+- Router configuration
+- Switch configuration
+- Wireless router setup
+- Network troubleshooting
+- Device connectivity
+Devices Used:
+- Cisco 1941 Routers
+- 2960 Switch
+- Hub
+- WRT300N Wireless Router
+- Cloud Device
+Tools Used:
+- Cisco Packet Tracer
 
 
 
