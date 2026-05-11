@@ -1,6 +1,9 @@
 # NETWORT-LAB
+
 PACKET TRACER AND WIRESHARK PRACTICE LABS FOR NETWORKING FUNDAMENTALS
+
 This repository contains my networking practice labs using Cisco Packet Tracer and Wireshark.
+
 ## ICMP Ping Lab
 Objective:
 Practice ICMP connectivity between two PCs.
@@ -14,3 +17,28 @@ Tools Used:
 - Cisco Packet Tracer
 - Wireshark
 - Windows CMD
+
+
+## IoT Home Router Lab
+Objective:
+Connect and configure a PC, laptop and IoT webcam using a wireless home router.
+Skills Practiced:
+- Wireless connectivity
+- Basic IoT configuration
+- Home router configuration
+- Device connectivity
+- Basic troubleshooting
+Devices Used:
+- Home Wireless Router
+- PC
+- Laptop
+- IoT Webcam
+Tools Used:
+- Cisco Packet Tracer
+
+
+
+
+
+
+
