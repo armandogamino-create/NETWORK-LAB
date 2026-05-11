@@ -36,6 +36,25 @@ Devices Used:
 Tools Used:
 - Cisco Packet Tracer
 
+## Inter-VLAN Routing Lab
+
+Objective:
+Configure communication between different VLANs using a router.
+Skills Practiced:
+- VLAN configuration
+- Inter-VLAN routing
+- Router and switch configuration
+- Trunk links
+- IP addressing
+- Connectivity testing
+- Troubleshooting
+Concepts Used:
+- VLAN 10
+- VLAN 20
+- Router-on-a-Stick
+- ICMP ping testing
+Tools Used:
+- Cisco Packet Tracer
 
 
 
