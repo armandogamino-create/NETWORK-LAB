@@ -18,6 +18,22 @@ Tools Used:
 - Wireshark
 - Windows CMD
 
+## LAN Router Gateway Lab
+
+Objective:
+Configure a basic LAN using one router and two PCs in different networks.
+Skills Practiced:
+- Router interface configuration
+- Default gateway configuration
+- IP addressing
+- LAN connectivity
+- Ping testing
+- Basic troubleshooting
+Devices Used:
+- Cisco 1941 Router
+- 2 PCs
+Tools Used:
+- Cisco Packet Tracer
 
 ## IoT Home Router Lab
 Objective:
