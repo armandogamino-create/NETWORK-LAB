@@ -113,18 +113,13 @@ Tools Used:
 # SOC Lab Practice
 
 ## Screenshots Included
-
 ### 1. ping-google.png
 Network connectivity test using ping google.com
-
 ### 2. nano-readme.png
 Linux Nano editor practice for creating and editing files
-
 ### 3. auth-log-permission.png
 Attempt to access system authentication logs and observe Linux permission restrictions
-
 ## Skills Practiced
-
 - Linux terminal navigation
 - Basic Linux commands
 - File creation and editing
@@ -132,12 +127,50 @@ Attempt to access system authentication logs and observe Linux permission restri
 - Ping testing
 - Understanding Linux permissions
 - Basic SOC environment practice
-- 
 ## Tools Used
-
 - Cisco Cybersecurity LabVM
 - Linux Terminal
 - Nano Editor
 - VirtualBox
+
+# LAN DHCP DNS Server Lab
+
+Objective: Configure a basic LAN network using a router, switch, server, PCs and laptop in Cisco Packet Tracer.
+Skills Practiced:
+- DHCP configuration
+- DNS configuration
+- HTTP service setup
+- Router configuration
+- Switch connectivity
+- IP addressing
+- Network troubleshooting
+- Device connectivity
+Devices Used:
+- Cisco 1941 Router
+- 2960 Switch
+- Server-PT
+- PCs
+- Laptop
+Services Configured:
+- DHCP
+- DNS
+- HTTP
+Tests Performed:
+- Ping to router
+- Ping to server
+- Ping using DNS
+- Web browser connectivity
+Tools Used:
+- Cisco Packet Tracer
+
+
+
+
+
+
+
+
+
+
 - GitHub
 
