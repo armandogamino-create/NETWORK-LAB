@@ -110,5 +110,34 @@ Devices Used:
 Tools Used:
 - Cisco Packet Tracer
 
+# SOC Lab Practice
 
+## Screenshots Included
+
+### 1. ping-google.png
+Network connectivity test using ping google.com
+
+### 2. nano-readme.png
+Linux Nano editor practice for creating and editing files
+
+### 3. auth-log-permission.png
+Attempt to access system authentication logs and observe Linux permission restrictions
+
+## Skills Practiced
+
+- Linux terminal navigation
+- Basic Linux commands
+- File creation and editing
+- Network troubleshooting
+- Ping testing
+- Understanding Linux permissions
+- Basic SOC environment practice
+- 
+## Tools Used
+
+- Cisco Cybersecurity LabVM
+- Linux Terminal
+- Nano Editor
+- VirtualBox
+- GitHub
 
